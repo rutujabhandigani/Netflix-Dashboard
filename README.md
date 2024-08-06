@@ -6,3 +6,5 @@ Tableau Dashboard with trends of Netflix Movies and TV Shows
 
 <br> <br>
 
+
+Inspired by: https://public.tableau.com/app/profile/datascience.roadmap/vizzes
